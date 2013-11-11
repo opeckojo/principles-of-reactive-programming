@@ -1,4 +1,4 @@
 principles-of-reactive-programming
 ==================================
 
-Notes for Coursera class Principles of Reactive Programming
+References / cheat sheets for Coursera's class on [Reactive Programming](https://class.coursera.org/reactive-001/)
